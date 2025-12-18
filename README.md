@@ -20,6 +20,10 @@ https://synfig.org/
 Installing
 ----------
 
+H
+
+----------
+
 * [Installation instructions for Windows, Linux, MacOS packages](https://synfig.readthedocs.io/en/latest/installation.html)
 * [Building and installing from source](https://synfig-docs-dev.readthedocs.io/en/latest/building/Building%20Synfig.html)
 
