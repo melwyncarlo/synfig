@@ -22,7 +22,7 @@ Installing
 
 <br>
 
-### My personal building Synfig from source steps on Windows
+### My personal (Melwyn Francis Carlo's) building Synfig from source steps on Windows
 
 <br>
 
