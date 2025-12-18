@@ -80,8 +80,7 @@ Installing
                                 </table>
                                 <br/>
                             </li>
-
-                            <li>Open <code>synfig-1.5.3/autobuild/msys2/build_mlt.sh</code>. On <u>line number 28</u> (cmake -G"Ninja"...), append the following before the double-dots ('..'):<br/><code>-DJACK_LIBRARY=/mingw64/lib/libjack.dll.a -DCMAKE_PREFIX_PATH=/mingw64</code></li>
+<li>Open <code>synfig-1.5.3/autobuild/msys2/build_mlt.sh</code>. On <u>line number 28</u> (cmake -G"Ninja"...), append the following before the double-dots ('..'):<br/><code>-DJACK_LIBRARY=/mingw64/lib/libjack.dll.a -DCMAKE_PREFIX_PATH=/mingw64</code></li>
                             <li>Using the old Movit library in Synfig causes build error, so let's build it from source.</li>
                             <li>Download the latest Movit library file from <a href="https://movit.sesse.net/">movit.sesse.net</a> (the latest version is 1.7.2 in tar.gz format as of December 2025). Unzip the zip file in a folder of your choice, and then enter that folder. For instructional purpose, the folder name is: <code>movit-1.7.2</code>. Copy this folder path.</li>
                             <li>
