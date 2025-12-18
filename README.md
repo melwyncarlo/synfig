@@ -139,7 +139,7 @@ Installing
                     </p>
                     <p>
                         &nbsp;&nbsp;&nbsp;<b>All done!</b><br/><br/>
-                        <img src="images/scribblings/synfig_build_result.png" class="img-thumbnail" alt="Synfig Build Result #1" loading="lazy">
+                        <img src="synfig_build_result.png" class="img-thumbnail" alt="Synfig Build Result #1" loading="lazy">
                     </p>
 
 <br>
