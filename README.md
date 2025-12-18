@@ -20,7 +20,11 @@ https://synfig.org/
 Installing
 ----------
 
+<br>
+
 H
+
+<br>
 
 ----------
 
